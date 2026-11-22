@@ -1,0 +1,6 @@
+{
+  "name": "PopBilles",
+  "description": "Jeu de fusion de boules expressives et colorées avec physique 2D, collection de personnages, boutique cosmétique, succès et sauvegarde locale automatique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
